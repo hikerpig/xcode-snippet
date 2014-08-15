@@ -9,3 +9,4 @@
 // IDECodeSnippetVersion: 0
 CGRect <#someview#>OldFrame = <#someview#>.frame;
 CGRect <#someview#>NewFrame = CGRectMake(<#CGFloat x#>, <#CGFloat y#>, <#CGFloat width#>, <#CGFloat height#>);
+<#someview>.frame = 
