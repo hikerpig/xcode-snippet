@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-UIGestureRecognizerState state = <#gesture#>.state;
+    UIGestureRecognizerState state = <#gesture#>.state;
 
     if (state == UIGestureRecognizerStateChanged) {
     
