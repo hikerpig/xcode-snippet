@@ -8,6 +8,6 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 /**
- * Protocol<# Name #>
+ * Protocol <# Name #>
  * ===================
  */
